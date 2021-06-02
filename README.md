@@ -1,4 +1,4 @@
-# PicGo + GitHub 搭建个人图床工具
+# PicGo + GitHub 搭建个人图床
 
 ### 为什么需要图床
 
